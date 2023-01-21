@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920687251833",
+    "project_id": "antinarco-d2731",
+    "storage_bucket": "antinarco-d2731.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920687251833:android:2762eadd45078174689fa8",
+        "android_client_info": {
+          "package_name": "com.example.antinarco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920687251833-9g9k3jf8qdsdjgd1slupkpj8q43nefip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2CeIByuabV7JDevsz0ateZm46sluqRD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920687251833-9g9k3jf8qdsdjgd1slupkpj8q43nefip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

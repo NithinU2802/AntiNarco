@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.antinarco">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/appicon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AntiNarco">
+        <activity
+            android:name=".dr_vishal"
+            android:exported="false" />
+        <activity
+            android:name=".dr_sesh"
+            android:exported="false" />
+        <activity
+            android:name=".dr_indha"
+            android:exported="false" />
+        <activity
+            android:name=".dr_bala"
+            android:exported="false" />
+        <activity
+            android:name=".dr_puneet"
+            android:exported="false" />
+        <activity
+            android:name=".dr_rajiv"
+            android:exported="false" />
+        <activity
+            android:name=".dr_vikranth"
+            android:exported="false" />
+        <activity
+            android:name=".dr_venugopal"
+            android:exported="false" />
+        <activity
+            android:name=".dr_ashwini"
+            android:exported="false" />
+        <activity
+            android:name=".dr_venu"
+            android:exported="false" />
+        <activity
+            android:name=".dr_yukal"
+            android:exported="false" />
+        <activity
+            android:name=".dr_vijay"
+            android:exported="false" />
+        <activity
+            android:name=".dr_ashok"
+            android:exported="false" />
+        <activity
+            android:name=".neurologist"
+            android:exported="false" />
+        <activity
+            android:name=".nephrologist"
+            android:exported="false" />
+        <activity
+            android:name=".cardiologist"
+            android:exported="false" />
+        <activity
+            android:name=".hospital"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".nasha"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".prevention"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Arugument"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Affect"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".penalty"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".register"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".login"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Splashscreen"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AntiNarco.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

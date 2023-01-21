@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:gravity="center_horizontal"
+    tools:context=".neurologist"
+    android:id="@+id/linearColumn"
+    android:background="#F6BE00"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="1000dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="143dp"
+                android:layout_height="36dp"
+                android:layout_gravity="center"
+                android:layout_marginStart="30dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginEnd="30dp"
+                android:src="@drawable/upperlogo" />
+
+            <!--venu-->
+            <ImageView
+                android:layout_width="316dp"
+                android:layout_height="196dp"
+                android:layout_gravity="center"
+                android:layout_marginStart="30dp"
+                android:id="@+id/rajiv"
+                android:layout_marginTop="60dp"
+                android:layout_marginEnd="30dp"
+                android:src="@drawable/rajivdata"/>
+
+            <ImageView
+                android:layout_width="103dp"
+                android:layout_height="110dp"
+                android:layout_gravity="center"
+                android:layout_marginStart="30dp"
+                android:layout_marginTop="-220dp"
+                android:layout_marginEnd="30dp"
+                android:src="@drawable/rajiv"/>
+
+            <Button
+                android:id="@+id/ashokbtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="location"
+                android:textColor="#000000"
+                android:background="#0000"
+                android:layout_marginStart="150dp"
+                android:layout_marginTop="65dp"/>
+
+            <!--ashwini-->
+            <ImageView
+                android:layout_width="316dp"
+                android:layout_height="196dp"
+                android:layout_gravity="center"
+                android:layout_marginStart="30dp"
+
+                android:layout_marginTop="50dp"
+                android:id="@+id/pineet"
+                android:layout_marginEnd="30dp"
+                android:src="@drawable/pineetdata"/>
+
+            <ImageView
+                android:layout_width="103dp"
+                android:layout_height="110dp"
+                android:layout_gravity="center"
+                android:layout_marginStart="30dp"
+                android:layout_marginTop="-220dp"
+                android:layout_marginEnd="30dp"
+                android:src="@drawable/puneet"/>
+
+            <Button
+                android:id="@+id/vijaybtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="location"
+                android:textColor="#FFFFFF"
+                android:background="#0000"
+                android:layout_marginStart="150dp"
+                android:layout_marginTop="70dp"/>
+            <!--vikranth-->
+            <ImageView
+                android:layout_width="316dp"
+                android:layout_height="196dp"
+                android:layout_gravity="center"
+                android:layout_marginStart="30dp"
+                android:layout_marginTop="50dp"
+                android:id="@+id/bala"
+                android:layout_marginEnd="30dp"
+                android:src="@drawable/baladata"/>
+
+            <ImageView
+                android:layout_width="103dp"
+                android:layout_height="110dp"
+                android:layout_gravity="center"
+
+                android:layout_marginStart="30dp"
+                android:layout_marginTop="-215dp"
+                android:layout_marginEnd="30dp"
+                android:src="@drawable/bala"/>
+
+            <Button
+                android:id="@+id/yugalbtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="location"
+                android:textColor="#000000"
+                android:background="#0000"
+                android:layout_marginStart="150dp"
+                android:layout_marginTop="65dp"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

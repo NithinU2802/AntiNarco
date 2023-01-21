@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">AntiNarco</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="cardio">
+        ☞Cardiovascular diseases (CVDs) are the leading cause of death globally.\n\n
+	An estimated 17.9 million people died from CVDs in 2019, representing 32% of all global deaths.
+        Of these deaths, 85% were due to heart attack and stroke.\n\n
+☞Over three quarters of CVD deaths take place in low- and middle-income countries.\n\n
+☞Out of the 17 million premature deaths (under the age of 70) due to noncommunicable diseases in 2019,
+        38% were caused by CVDs.\n\n
+☞Most cardiovascular diseases can be prevented by addressing behavioural risk factors such as tobacco use,
+        unhealthy diet and obesity, physical inactivity and harmful use of alcohol.\n\n
+☞It is important to detect cardiovascular disease as early as possible so that management with counselling and medicines can begin.\n\n
+
+    </string>
+    <string name="stroke">
+        ☞A stroke occurs when a blood vessel in the brain ruptures and bleeds, or
+        when there s a blockage in the blood supply to the brain.\n\n
+        ☞The rupture or blockage prevents blood and oxygen from reaching the brain’s tissues.\n\n
+        ☞The loss of blood flow to the brain damages tissues within the brain. \n\n
+        ☞Symptoms of a stroke show up in the body parts controlled by the damaged areas of the brain.\n\n
+The sooner a person having a stroke gets care, the better their outcome is likely to be.\n\n
+
+
+    </string>
+    <string name="cancer">
+   ☞Cancer refers to any one of a large number of diseases characterized by the development of
+    abnormal cells that divide uncontrollably and have the ability to infiltrate and destroy normal body tissue.\n\n
+    ☞ Cancer often has the ability to spread throughout your body.
+    Cancer is the second-leading cause of death in the world.
+</string>
+
+    <string name="hivaids">
+       ☞Acquired immunodeficiency syndrome AIDS is a chronic, potentially life threatening condition caused by the human
+        immunodeficiency virus . By damaging your immune system,\n\n
+        ☞HIV interferes with your body s ability to fight infection and disease.
+    </string>
+    <string name="lung">
+        ☞	Lung disease refers to several types of diseases or disorders that prevent the lungs from functioning properly.
+        Lung disease can affect respiratory function, or the ability to breathe, and pulmonary function,
+        which is how well lungs work.
+☞	There are many different lung diseases, some of which are caused by bacterial, viral,
+        or fungal infections. Other lung diseases are associated with environmental factors, including asthma,
+        mesothelioma, and lung cancer.
+
+
+    </string>
+
+    <string name="title_activity_dr_yugal">dr_yugal</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

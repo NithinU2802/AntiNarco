@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Affect">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:text="Cardiovascular disease"
+        android:textStyle="bold"
+        android:textSize="28dp"
+        />
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_gravity="center"
+        android:layout_height="250dp"
+        android:src="@drawable/cardio"/>
+    <TextView
+        android:id="@+id/Cardiotext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:fontFamily="sans-serif"
+
+        android:text="@string/cardio"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textSize="20dp"
+        android:textStyle="normal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:text="Stroke"
+        android:textStyle="bold"
+        android:textSize="28dp"
+
+        />
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_gravity="center"
+        android:layout_height="250dp"
+        android:src="@drawable/stroke"/>
+
+    <TextView
+        android:id="@+id/Strketext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:fontFamily="sans-serif"
+
+        android:text="@string/stroke"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textSize="20dp"
+        android:textStyle="normal" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:text="Cancer"
+        android:textStyle="bold"
+        android:textSize="28dp"
+
+        />
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_gravity="center"
+        android:layout_height="250dp"
+        android:src="@drawable/cancer"/>
+
+    <TextView
+        android:id="@+id/cancertext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:fontFamily="sans-serif"
+
+        android:text="@string/cancer"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textSize="20dp"
+        android:textStyle="normal" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:text="Hivs /Aids"
+        android:textStyle="bold"
+        android:textSize="28dp"
+
+        />
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_gravity="center"
+        android:layout_height="300dp"
+        android:src="@drawable/hiv"/>
+
+    <TextView
+        android:id="@+id/hivtext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:fontFamily="sans-serif"
+
+        android:text="@string/hivaids"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textSize="20dp"
+        android:textStyle="normal" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:text="Lung disease"
+        android:textStyle="bold"
+        android:textSize="28dp"
+
+        />
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_gravity="center"
+        android:layout_height="300dp"
+        android:src="@drawable/lung"/>
+
+    <TextView
+        android:id="@+id/lungtext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:fontFamily="sans-serif"
+
+        android:text="@string/hivaids"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textSize="20dp"
+        android:textStyle="normal" />
+</LinearLayout>
+</ScrollView>

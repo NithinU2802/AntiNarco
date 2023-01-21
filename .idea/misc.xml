@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/activity_affect.xml" value="0.1796875" />
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/activity_arugument.xml" value="0.1796875" />
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/activity_cardiologist.xml" value="0.1796875" />
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/activity_dr_ashok.xml" value="0.1796875" />
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/activity_dr_ashwini.xml" value="0.1796875" />
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/activity_dr_rajiv.xml" value="0.1796875" />
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/activity_dr_sesh.xml" value="0.1796875" />
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/activity_dr_venugopal.xml" value="0.1796875" />
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/activity_dr_vishal.xml" value="0.1796875" />
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/activity_login.xml" value="0.1796875" />
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/activity_nasha.xml" value="0.1796875" />
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/activity_nephrologist.xml" value="0.1796875" />
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/activity_neurologist.xml" value="0.1796875" />
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/activity_prevention.xml" value="0.1796875" />
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/activity_reg.xml" value="0.1796875" />
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/activity_splashscreen.xml" value="0.1796875" />
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/app_bar_main.xml" value="0.1796875" />
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/content_dr_yugal.xml" value="0.1796875" />
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/content_main.xml" value="0.1796875" />
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/fragment_gallery.xml" value="0.1796875" />
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/fragment_home.xml" value="0.1796875" />
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/fragment_second.xml" value="0.1796875" />
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/fragment_slideshow.xml" value="0.1796875" />
+        <entry key="..\:/AntiNarco/app/src/main/res/layout/nav_header_main.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
