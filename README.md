@@ -10,9 +10,10 @@
       PROFILE IS GENERATED, A DASHBOARD IS DISPLAYED WHICH INCLUDES SEVERAL TABS TITLED AWARENESS, ADVERSE EFFECTS OF NARCOTICS, 
       SELF-IMPROVEMENT, NASHA MUKT BHARAT ABHIYAN, RECOVERY TREATMENT, AUGMENTED REALITY IN ACTION ) AND LOGOUT.
  <br />
-  
+ My Task :
   - User Login and Registration.
   - Volunteer and Event Conductor.
+  - Some Page Design and Implementations.
   - Also Make some 3D Models how a person got to infect.
  <br /><br />
  
