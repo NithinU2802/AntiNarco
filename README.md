@@ -3,7 +3,7 @@
   " This Repository contains that my contribution for Smart India Hackathon futher the whole project was handover to the Hackathon Team"
 <br />
 
-#  Role: Mobile Developer || Speaker
+#  Role: Android App Developer || Speaker
 
   # ABSTRACT
          WITH AN AID OF AN APP, THIS MAY BE ACHIEVED.  PRIOR TO USING THE APP, THE USER MUST REGISTER. AS 
